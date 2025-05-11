@@ -1,0 +1,15 @@
+{
+  "brands": [
+    "Nestle",
+    "Coca-Cola",
+    "PepsiCo",
+    "Unilever",
+    "Procter & Gamble",
+    "Johnson & Johnson",
+    "Kraft Heinz",
+    "Mondelez",
+    "Mars",
+    "Danone"
+  ],
+  "countries": ["China", "Pakistan"]
+}

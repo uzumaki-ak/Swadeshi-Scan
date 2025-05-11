@@ -1,0 +1,38 @@
+{
+  "madeInIndia": [
+    "turmeric",
+    "cumin",
+    "coriander",
+    "cardamom",
+    "ginger",
+    "tamarind",
+    "asafoetida",
+    "fenugreek",
+    "curry leaf",
+    "mustard seed",
+    "basmati rice",
+    "chickpea",
+    "lentil",
+    "ghee",
+    "jaggery",
+    "amla",
+    "tulsi",
+    "ashwagandha"
+  ],
+  "notMadeInIndia": [
+    "high fructose corn syrup",
+    "palm oil",
+    "artificial flavor",
+    "artificial color",
+    "monosodium glutamate",
+    "sodium benzoate",
+    "potassium sorbate",
+    "carrageenan",
+    "xanthan gum",
+    "soy lecithin",
+    "modified starch",
+    "hydrogenated oil",
+    "corn syrup",
+    "maltodextrin"
+  ]
+}
